@@ -1,4 +1,2 @@
-# retired_celeb
-
-## Motivation
+# Motivation
 Celebrities with controversial on-air behavior should not appear on the show
