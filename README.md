@@ -11,4 +11,7 @@ Step 2. Change the target face to another face using Face Swap
 ## Requirements
 ### Data
 1. Face Recognition<br/>
-Target image: in 
+Target image: ./Face_Recognition/input/image/0<br/>
+The video file: ./Face_Recognition/input/video<br/>
+
+2. Face Swap<br/>
