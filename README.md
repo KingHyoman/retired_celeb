@@ -10,3 +10,5 @@ Step 2. Change the target face to another face using Face Swap
 
 ## Requirements
 ### Data
+1. Face Recognition<br/>
+Target image: in 
