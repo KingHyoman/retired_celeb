@@ -7,6 +7,3 @@ In the past, controversial celebrities were edited by editors who watched the fo
 ## Idea
 Step 1. Using Face Recognition to recognize the target face who have to be edited<br/>
 Step 2. Change the target face to another face using Face Swap
-
-## Requirements
-
