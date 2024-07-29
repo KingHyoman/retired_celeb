@@ -12,5 +12,5 @@ Step 2. Change the target face to another face using Face Swap
 ### Face_Recognition
 Recognize target faces in a given video
 ### Face_Swap
-model 1: Low performance(x)
+model 1: Low performance(x)<br/>
 model 2: Face Detection + Face Swap
